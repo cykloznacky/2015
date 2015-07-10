@@ -1,0 +1,7 @@
+5080: 
+ - Holstejn - ukonceni uz na krizovatce pred Holstejnem
+5119: 
+ - Jedovnice - konec uz u odb. na Olsovec
+ - Jedovnice - ul. Wanklova misto ul. K propadani
+ - Rudice - spice
+ - propadani 

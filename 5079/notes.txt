@@ -1,0 +1,3 @@
+- chybi fotka z ukonceni v Ostrove
+
+- protridit fotky v map.files

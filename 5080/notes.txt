@@ -1,0 +1,2 @@
+ta prvni odbocka v lese: Lat:49.329468, Lon:16.819475, Ele:581.171875
+ta druha: Lat:49.330574, Lon:16.822948, Ele:584.437500
