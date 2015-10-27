@@ -1,2 +1,4 @@
 ta prvni odbocka v lese: Lat:49.329468, Lon:16.819475, Ele:581.171875
+  nebo z druheho prujezdu: Lat:49.330605, Lon:16.823351, Ele:573.656250
 ta druha: Lat:49.330574, Lon:16.822948, Ele:584.437500
+
